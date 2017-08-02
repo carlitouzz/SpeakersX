@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{67D0F336-664C-4298-B2C3-02F630BE5049}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpeakersX/View/SpeakersPage.xaml.cs">
+    <Files>
+      <File FileName="SpeakersX/SpeakersXPage.xaml.cs" Line="7" Column="6" />
+      <File FileName="SpeakersX/SpeakersXPage.xaml" Line="5" Column="1" />
+      <File FileName="SpeakersX/App.xaml.cs" Line="12" Column="37" />
+      <File FileName="SpeakersX/App.xaml" Line="7" Column="1" />
+      <File FileName="SpeakersX/Model/Speaker.cs" Line="18" Column="9" />
+      <File FileName="SpeakersX/ViewModel/SpeakersViewModel.cs" Line="30" Column="10" />
+      <File FileName="SpeakersX/View/SpeakersPage.xaml" Line="22" Column="1" />
+      <File FileName="SpeakersX/View/SpeakersPage.xaml.cs" Line="31" Column="13" />
+      <File FileName="SpeakersX/obj/Debug/SpeakersX.View.SpeakersPage.xaml.g.cs" Line="22" Column="1" />
+      <File FileName="iOS/Main.cs" Line="19" Column="6" />
+      <File FileName="SpeakersX/packages.config" Line="1" Column="1" />
+      <File FileName="SpeakersX/View/DetailsPage.xaml" Line="9" Column="1" />
+      <File FileName="SpeakersX/View/DetailsPage.xaml.cs" Line="1" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SpeakersX.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B2E2FC05-A2A4-4061-AF38-A531F2F6F4D9" />
+  <MultiItemStartupConfigurations />
+</Properties>
